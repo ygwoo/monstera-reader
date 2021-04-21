@@ -1,0 +1,14 @@
+# add files you wish to ignore here
+**/*.md
+**/*.svg
+**/test.ts
+
+.stylelintrc
+.prettierrc
+
+src/index.html
+node_modules/
+coverage/
+dist/
+
+_cli-tpl/**/*
