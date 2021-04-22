@@ -1,11 +1,11 @@
 {
-  "name": "angular-electron",
-  "version": "9.0.7",
-  "description": "Angular 11 with Electron (Typescript + SASS + Hot Reload)",
-  "homepage": "https://github.com/maximegris/angular-electron",
+  "name": "monstera-reader",
+  "version": "0.1.0",
+  "description": "Angular 11 with Electron",
+  "homepage": "https://github.com/ygwoo/monstera-reader",
   "author": {
-    "name": "Maxime GRIS",
-    "email": "maxime.gris@gmail.com"
+    "name": "yiguang-woo",
+    "email": "501704652@qq.com"
   },
   "keywords": [
     "angular",
@@ -88,6 +88,13 @@
     "karma-electron": "6.3.3",
     "karma-jasmine": "4.0.1",
     "karma-jasmine-html-reporter": "1.5.4",
+    "stylelint": "^13.3.2",
+    "stylelint-config-css-modules": "^2.2.0",
+    "stylelint-config-prettier": "^8.0.1",
+    "stylelint-config-rational-order": "^0.1.2",
+    "stylelint-config-standard": "^20.0.0",
+    "stylelint-declaration-block-no-ignored-properties": "^2.3.0",
+    "stylelint-order": "^4.0.0",
     "mocha": "8.3.2",
     "nan": "2.14.2",
     "npm-run-all": "4.1.5",
